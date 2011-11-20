@@ -1,9 +1,0 @@
-bin
-build
-include
-lib
-local
-Scripts
-.Python
-*.pyc
-share

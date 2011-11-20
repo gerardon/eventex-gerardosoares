@@ -332,4 +332,13 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
-
+	.quotes {
+		float: left;
+	}
+	.grey-box {
+		background: #eee;
+		margin: 15px;
+		float: left;
+		padding: 62px;
+		display: block;
+	}
